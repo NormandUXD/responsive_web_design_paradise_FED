@@ -1,4 +1,11 @@
-*{
+body {
+    background: linear-gradient(181deg, #DA9D52 -30.81%, #73A160 63.22%, #0400E1 123.03%);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+
+* {
     box-sizing: border-box;
 }
 

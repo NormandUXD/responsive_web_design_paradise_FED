@@ -96,10 +96,6 @@ div.gallery-item div.desc{
         max-width: 50%;
     }
 
-    .column img:hover {
-    transform: scale(1.25);
-    transition: transform 0.3s;
-    }
 }
 
 @media only screen and (max-width: 599px){
